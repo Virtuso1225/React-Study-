@@ -1,0 +1,12 @@
+.description {
+  background-color: transparent;
+  border: none;
+  display: flex;
+  margin-left: 8rem;
+  margin-top: -6rem;
+}
+
+p {
+  color: #858c74;
+  font-size: 25px;
+}

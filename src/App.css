@@ -1,0 +1,9 @@
+.line {
+  width: 90%;
+  margin-left: 8rem;
+  margin-top: 1.563rem;
+}
+.wrapper {
+  background: #858c74;
+  display: flex;
+}

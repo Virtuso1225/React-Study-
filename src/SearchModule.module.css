@@ -1,0 +1,28 @@
+.input {
+  background-color: rgb(35, 38, 22, 0.08);
+  border: none;
+  height: 2.5rem;
+  border-radius: 0.5rem;
+  width: 26.13rem;
+  color: #232616;
+  text-align: center;
+  transition: 0.2s;
+  font-size: 16px;
+  position: relative;
+}
+
+.input:focus {
+  outline: transparent;
+  background-color: rgb(35, 38, 22, 0.15);
+}
+
+.input::placeholder {
+  color: rgb(35, 38, 22, 0.3);
+}
+
+.textBox {
+  background: none;
+  border: none;
+  display: flex;
+  margin-left: 8rem;
+}

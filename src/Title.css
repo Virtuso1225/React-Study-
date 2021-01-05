@@ -1,0 +1,9 @@
+.Title {
+  background: none;
+  color: #232616;
+  display: flex;
+  font-size: 3.75rem;
+  font-weight: 600;
+  margin-left: 8rem;
+  margin-top: 4rem;
+}
